@@ -6,6 +6,13 @@ Bunker Reader intelligently extracts article content from any webpage and presen
 
 ---
 
+## Images
+* ** Before Extension
+![Before Reading Mode](images/pre.png)
+
+* ** After Extension
+![After Reading Mode](assets/post.png)
+
 ## ✨ Features
 
 * **Smart Article Detection**
